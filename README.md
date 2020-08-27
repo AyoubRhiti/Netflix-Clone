@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). check out the project here : https://netflix-ayoub.web.app
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). check out the project here : https://netflix-ayoub.web.app 
 
 ## Available Scripts
 
